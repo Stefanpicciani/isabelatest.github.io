@@ -1,0 +1,89 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #efcceb;
+    color: rgb(34, 34, 34);
+    margin: 0;
+    line-height:24px;
+   
+    
+}
+
+.profile {
+    text-align: center;
+}
+
+
+
+.foto-principal {
+    width: 200px;
+    margin: 30px 30px 0px 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px #959595;
+   
+
+}
+
+.social-icons {
+    width: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    letter-spacing: -1px;
+    font-family: 'Pt Sans Narrow', sans-serif;
+    font-size: 40px;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+h2 {
+    font-weight: 100;
+    font-style: italic;
+    margin-top: 5px;
+    font-size: 22px;
+    color: rgb(73, 73, 73);
+}
+
+.social-links {
+    text-decoration: none;
+}
+
+.github {
+    margin: 0 15px 0 15px;
+}
+
+.p-list {
+    margin-top: 0;
+    margin-bottom: 15px;    
+}
+
+.container {
+    width: 900px;
+    margin: 0px auto;
+}
+
+.jobs-list {
+    list-style: none;
+}
+
+h4 {
+    margin-bottom: 0;
+    font-weight: bold;
+    
+}
+
+h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-style: italic;
+    font-weight: 100;
+
+}
+
+.footer {
+    text-align: center;
+    color: rgb(66, 66, 66);
+    background-color: plum;
+    padding: 10px;
+}
